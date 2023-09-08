@@ -1,4 +1,5 @@
-# いらっしゃい ませ
+# みなさん、ようこそ！
+
 - 👋 Hi, I’m @Holivan
 - 👀 I’m interested in learning about JAVA backend development, SQL, Data Bank, Power BI, Japanese language, French language, English Language, International Relations, Poker and Chess.
 - 🌱 I’m currently learning SQL at DIO PRO - Digital Innovation One
